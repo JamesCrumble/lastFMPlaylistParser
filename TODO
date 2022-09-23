@@ -1,0 +1,5 @@
+1. SAVE LAST EXECUTED REQUESTED DATA
+2. CHECK LENGTH OF TRACK AND COMPARE TO CURRENT TIME 
+    FOR NOT EVERY TIME REQUEST EXECUTION FOR UPDATE DATA. 
+    THIS IS TOO LONG BY TIME AND TOO ANNOYING 
+    (or make live connection but i'm not rly sure about allowing it from last.fm side for a long time)
